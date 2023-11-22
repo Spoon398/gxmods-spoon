@@ -1,0 +1,98 @@
+{
+    "name": "Xbox 360 NXE",
+    "description": "This mod uses some decompiled Xbox 360 NXE Dashboard sounds for assorted sound effects in Opera, along with the typing sounds too. Have fun! ;)",
+    "developer":
+    {
+        "name": "Spoon"
+    },
+    "icons":
+    {
+        "300": "icon_512.png"
+    },
+    "manifest_version": 3,
+    "mod":
+    {
+        "license": "license.txt",
+        "payload":
+        {
+            "browser_sounds":
+            {
+                "CLICK":
+                [
+                    "sound/click.mp3"
+                ],
+                "FEATURE_SWITCH_OFF":
+                [
+                    "sound/feature_switch_off.mp3"
+                ],
+                "FEATURE_SWITCH_ON":
+                [
+                    "sound/feature_switch_on.mp3"
+                ],
+                "HOVER":
+                [
+                    "sound/hover.mp3"
+                ],
+                "HOVER_UP":
+                [
+                    "sound/hover.mp3"
+                ],
+                "IMPORTANT_CLICK":
+                [
+                    "sound/important_click.mp3"
+                ],
+                "LEVEL_UPGRADE":
+                [
+                    "sound/level_upgrade.mp3"
+                ],
+                "LIMITER_OFF":
+                [
+                    "sound/limiter_off.mp3"
+                ],
+                "LIMITER_ON":
+                [
+                    "sound/limiter_on.mp3"
+                ],
+                "SWITCH_TOGGLE":
+                [
+                    "sound/switch.mp3"
+                ],
+                "TAB_CLOSE":
+                [
+                    "sound/close_tab.mp3"
+                ],
+                "TAB_INSERT":
+                [
+                    "sound/new_tab.mp3"
+                ],
+                "TAB_SLASH":
+                [
+                    "sound/tab_slash.mp3"
+                ]
+            },
+            "keyboard_sounds":
+            {
+                "TYPING_BACKSPACE":
+                [
+                    "keyboard/backspace.wav"
+                ],
+                "TYPING_ENTER":
+                [
+                    "keyboard/enter.wav"
+                ],
+                "TYPING_LETTER":
+                [
+                    "keyboard/letter_1.wav",
+                    "keyboard/letter_2.wav",
+                    "keyboard/letter_3.wav"
+                ],
+                "TYPING_SPACE":
+                [
+                    "keyboard/space.wav"
+                ]
+            }
+        },
+        "schema_version": 1
+    },
+    "version": "1.0"
+}
