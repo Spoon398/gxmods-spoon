@@ -92,7 +92,40 @@
                 ]
             }
         },
+        "theme":
+            {
+                "dark":
+                {
+                    "gx_accent":
+                    {
+                        "h": 120,
+                        "s": 75,
+                        "l": 24
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 0,
+                        "s": 0,
+                        "l": 16
+                    }
+                },
+                "light":
+                {
+                    "gx_accent":
+                    {
+                        "h": 120,
+                        "s": 75,
+                        "l": 24
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 0,
+                        "s": 0,
+                        "l": 80
+                    }
+                }
+            },
         "schema_version": 1
     },
-    "version": "1.0"
+    "version": "1.1"
 }
