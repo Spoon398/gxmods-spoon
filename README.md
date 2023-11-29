@@ -1,5 +1,10 @@
 Hi there, you're on the landing page for my Opera GX mod repo.
+
 I store several of my mods here, and they can all be found under their respective folder on the repo.
+
+This is the main branch, and if something is pushed to a mod folder here, then expect a mod release/update soon.
+
+Here's my currently developed mods:
 
 
 # PATCH NOTES: XBOX 360 NXE v1.1
