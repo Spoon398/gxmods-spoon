@@ -6,6 +6,7 @@ I store several of my mods here, and they can all be found under their respectiv
 CHANGES
 - New theme! Still tweaking it but it works lol
 - Fixed sounds, but still inadvisable to have your sound effect volume set to 200% for any soound. Please use default volumes.
+
 PLANNED UPDATES
 - Animated new tab wallpaper based on the original Xbox 360 NXE Dashboard, with both a dark and light theme version.
 - Tweaks to light mode.
