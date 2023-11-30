@@ -1,0 +1,50 @@
+                                         
+ ____                  _     _   _         
+|    \ ___ ___ ___ ___|_|___| |_|_|___ ___ 
+|  |  | -_|_ -|  _|  _| | . |  _| | . |   |
+|____/|___|___|___|_| |_|  _|_| |_|___|_|_|
+                        |_|                
+...............................................................................
+
+This mod uses some exported sounds from the Xbox 360 NXE Dashboard, which was used
+from around 2007/2008 to 2011, when the Metro dashboard was introduced.
+Included in v1.0 of this mod is:
+- Keyboard sounds
+- Sound effects
+Planned additions are:
+- Custom animated background
+- Correctly formatted CSS theme
+
+KNOWN BUGS:
+- Click sound doesn't work properly for some reason. I think due to the length of it
+being under a second, it's going crazy.
+- Setting the volume to 200 will peak the audio of the sound effects. PLEASE
+USE DEFAULT VOLUME FOR THE LOVE OF GOD.
+                              
+ _____           _ _ _       
+|     |___ ___ _| |_| |_ ___ 
+|   --|  _| -_| . | |  _|_ -|
+|_____|_| |___|___|_|_| |___|
+...............................................................................
+
+All sounds and other assets used in this mod are the legal copyrighted
+property of Microsoft Inc., under the Xbox division. 
+© 2023 Microsoft Inc. Used under publicly available reuse licenses.
+
+ _____       _         
+|  |  |_ _ _| |___ ___ 
+|    -| | | . | . |_ -|
+|__|__|___|___|___|___|
+...............................................................................
+                       
+u/SGCSam on Reddit for even making the tool that allowed this, lol
+
+ _____ _       ___ ___ 
+|   __| |_ _ _|  _|  _|
+|__   |  _| | |  _|  _|
+|_____|_| |___|_| |_|  
+...............................................................................
+                       
+This mod earns the Spoon seal of approval. :D
+By the way, if you're reading this, you should probably run while you can
+
