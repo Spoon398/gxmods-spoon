@@ -11,15 +11,16 @@ from around 2007/2008 to 2011, when the Metro dashboard was introduced.
 Included in v1.0 of this mod is:
 - Keyboard sounds
 - Sound effects
-Planned additions are:
-- Custom animated background
 - Correctly formatted CSS theme
 
+Planned additions are:
+- Custom animated background
+- Background Music
+
 KNOWN BUGS:
-- Click sound doesn't work properly for some reason. I think due to the length of it
-being under a second, it's going crazy.
 - Setting the volume to 200 will peak the audio of the sound effects. PLEASE
 USE DEFAULT VOLUME FOR THE LOVE OF GOD.
+- Some colors may be slightly off. This will be fixed in v1.2.
                               
  _____           _ _ _       
 |     |___ ___ _| |_| |_ ___ 
@@ -47,4 +48,3 @@ u/SGCSam on Reddit for even making the tool that allowed this, lol
                        
 This mod earns the Spoon seal of approval. :D
 By the way, if you're reading this, you should probably run while you can
-
