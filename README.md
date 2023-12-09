@@ -10,7 +10,7 @@ Xbox 360 NXE (currently on v1.1.1)
 # PATCH NOTES: XBOX 360 NXE v1.1.1
 CHANGES
 - New theme! Still tweaking it but it works lol
-- Fixed sounds, but still inadvisable to have your sound effect volume set to 200% for any soound. Please use default or reduced volumes. (The upper limit is about 110% for peaking, specifically the tab open sound.)
+- Fixed sounds, but still inadvisable to have your sound effect volume set to 200% for any sound. Please use default or reduced volumes. (The upper limit is about 110% for peaking, specifically the tab open sound.)
 
 PLANNED UPDATES
 - Animated new tab wallpaper based on the original Xbox 360 NXE Dashboard, with both a dark and light theme version.
