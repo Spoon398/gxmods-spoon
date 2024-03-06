@@ -1,6 +1,6 @@
 {
     "name": "Xbox 360 NXE",
-    "description": "This mod uses some decompiled Xbox 360 NXE Dashboard sounds for assorted sound effects in Opera, along with the typing sounds too. Have fun! ;)",
+    "description": "This mod uses some decompiled Xbox 360 NXE Dashboard sounds and some recreated assets to make your browsing experience give you some nostalgia to the good old days. Have fun! :) | If you wish to follow the development of this mod or any other mods that I'm working on, feel free to join the Discord: https://discord.gg/635EpP7MWy",
     "developer":
     {
         "name": "Spoon"
@@ -15,6 +15,11 @@
         "license": "license.txt",
         "payload":
         {
+	    "background_music":
+            [
+                "music/track_1.wav",
+                "music/track_2.wav"
+            ],
             "browser_sounds":
             {
                 "CLICK":
@@ -99,7 +104,7 @@
                     {
                         "h": 120,
                         "s": 100,
-                        "l": 78.43
+                        "l": 52
                     },
                     "gx_secondary_base":
                     {
@@ -114,18 +119,28 @@
                     {
                         "h": 120,
                         "s": 100,
-                        "l": 50
+                        "l": 44
                     },
                     "gx_secondary_base":
                     {
                         "h": 0,
                         "s": 0,
-                        "l": 88
+                        "l": 55
                     }
+                }
+            },
+            "wallpaper":
+            {
+                "dark":
+                {   
+                    "image": "background/new_tab_splash_short_dark.mp4",
+                    "first_frame": "background/first_frame_dark.png",
+                    "text_color": "#FFFFFF",
+                    "text_shadow": "#757575"
                 }
             }
         },
-        "schema_version": 2.0
+        "schema_version": 2
     },
     "version": "2.0"
 }
