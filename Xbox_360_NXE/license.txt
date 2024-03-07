@@ -8,12 +8,10 @@
 
 This mod uses some exported sounds from the Xbox 360 NXE Dashboard, which was used
 from around 2007/2008 to 2011, when the Metro dashboard was introduced.
-Included in v1.1.1 of this mod is:
+Included in v2.0 of this mod is:
 - Keyboard sounds
-- Sound effects
-- Correctly formatted CSS theme (kind of, see KNOWN BUGS for why)
-
-Planned additions are:
+- Other sound effects
+- Correctly formatted CSS themes for dark and light
 - Custom animated background
 - Background Music
 

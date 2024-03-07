@@ -5,19 +5,19 @@ This repo serves as a storage hold for all of my mods here, and they can all be 
 This is the main branch, and if something is pushed to a mod folder here (on the main branch), then expect a mod release/update soon.
 
 Here's my currently developed mods that have been released:
-Xbox 360 NXE (currently on v1.1.1)
+Xbox 360 NXE (currently on v2.0a)
 
-# PATCH NOTES: XBOX 360 NXE v1.1.1
+Here's some mods I'm currently working on that may or may not have folders here:
+"Eggbully" (VERY early stages so no folder here yet)
+Fallout Pip-Boy (haven't even started it lol)
+
+# PATCH NOTES: XBOX 360 NXE v2.0 ALPHA
 CHANGES
-- New theme! Still tweaking it but it works lol
-- Fixed sounds, but still inadvisable to have your sound effect volume set to 200% for any sound. Please use default or reduced volumes. (The upper limit is about 110% for peaking, specifically the tab open sound.)
-
+- New Light Mode compatibility! Some colors have been altered to be darker so that they may work better with light backgrounds. 
+- ANIMATED WALLPAPER!!! This was by far the most time consuming part of the project (mostly because Opera GX doesn't automatically restart a video when you open a new tab, which is a problem)
+- Background music! It's still *slightly* off sync, but it is VERY close to being fully done.
 PLANNED UPDATES
-- Animated new tab wallpaper based on the original Xbox 360 NXE Dashboard, with both a dark and light theme version.
-- Tweaks to light mode.
-- Tweaks to colors (they're not FULLY correct but I'm working on it)
-- Background music. I have some tracks (ripped from avatar editor) but they're not FULLY integrated yet.
+- Tweaks to background music in order to make transitioning slightly more seamless.
 
-Next version of the NXE mod is 2.0. I plan to have MOST of the features ironed out before a full release.
-If you would like to contribute to this git or get more details on how I created some assets of this mod, or have some other general questions, please directly message "Spoon#5349" on Discord, or join https://discord.gg/2taWvdDqv2 , and I will respond ASAP.
-(If the above invite doesn't work, message me directly.)
+If you would like to contribute to this git, get more details on how I created some assets of this mod, or have some other general questions, join https://discord.gg/2taWvdDqv2, and I will respond ASAP.
+(If the above invite doesn't work, message me directly at "@Spoon_39".)
