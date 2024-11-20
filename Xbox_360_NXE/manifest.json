@@ -16,64 +16,30 @@
         "payload":
         {
 	    "background_music":
-            [
-                "music/track_1.wav"
-            ],
-            "browser_sounds":
-            {
-                "CLICK":
-                [
-                    "sound/click.mp3"
-                ],
-                "FEATURE_SWITCH_OFF":
-                [
-                    "sound/feature_switch_off.mp3"
-                ],
-                "FEATURE_SWITCH_ON":
-                [
-                    "sound/feature_switch_on.mp3"
-                ],
-                "HOVER":
-                [
-                    "sound/hover.mp3"
-                ],
-                "HOVER_UP":
-                [
-                    "sound/hover.mp3"
-                ],
-                "IMPORTANT_CLICK":
-                [
-                    "sound/important_click.mp3"
-                ],
-                "LEVEL_UPGRADE":
-                [
-                    "sound/level_upgrade.mp3"
-                ],
-                "LIMITER_OFF":
-                [
-                    "sound/limiter_off.mp3"
-                ],
-                "LIMITER_ON":
-                [
-                    "sound/limiter_on.mp3"
-                ],
-                "SWITCH_TOGGLE":
-                [
-                    "sound/switch.mp3"
-                ],
-                "TAB_CLOSE":
-                [
-                    "sound/close_tab.mp3"
-                ],
-                "TAB_INSERT":
-                [
-                    "sound/new_tab.mp3"
-                ],
-                "TAB_SLASH":
-                [
-                    "sound/tab_slash.mp3"
-                ]
-            },
+            [ {
+                "id": "0",
+                "name": "Xbox Avatar Music",
+                "tracks": "music/track_1.wav"
+            } ],
+            "browser_sounds": [ {
+                "id": "0",
+                "name": "Martincitopants",
+                "sounds": {
+                   "CLICK": [ "sound/click.mp3" ],
+                   "FEATURE_SWITCH_OFF": [ "sound/feature_switch_off.mp3" ],
+                   "FEATURE_SWITCH_ON": [ "sound/feature_switch_on.mp3" ],
+                   "HOVER": [ "sound/hover.mp3" ],
+                   "HOVER_UP": [ "sound/hover.mp3" ],
+                   "IMPORTANT_CLICK": [ "sound/important_click.mp3" ],
+                   "LEVEL_UPGRADE": [ "sound/level_upgrade.mp3" ],
+                   "LIMITER_OFF": [ "sound/limiter_off.mp3" ],
+                   "LIMITER_ON": [ "sound/limiter_on.mp3" ],
+                   "SWITCH_TOGGLE": [ "sound/switch.mp3" ],
+                   "TAB_CLOSE": [ "sound/close_tab.mp3" ],
+                   "TAB_INSERT": [ "sound/new_tab.mp3" ],
+                   "TAB_SLASH": [ "sound/tab_slash.mp3" ]
+                }
+             } ],
             "keyboard_sounds":
             {
                 "TYPING_BACKSPACE":
