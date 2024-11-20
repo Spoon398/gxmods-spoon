@@ -1,6 +1,6 @@
 {
     "name": "Xbox 360 NXE",
-    "description": "ALPHA BUILD, DO NOT DISTRIBUTE ON STORE.GX | This mod uses some decompiled Xbox 360 NXE Dashboard sounds and some recreated assets to make your browsing experience give you some nostalgia to the good old days. Have fun! :) | If you wish to follow the development of this mod or any other mods that I'm working on, feel free to join the Discord: https://discord.gg/635EpP7MWy",
+    "description": "PRE-ALPHA BUILD, DO NOT DISTRIBUTE ON STORE.GX | This mod uses some decompiled Xbox 360 NXE Dashboard sounds and some recreated assets to make your browsing experience give you some nostalgia to the good old days. Have fun! :) | If you wish to follow the development of this mod or any other mods that I'm working on, feel free to join the Discord: https://discord.gg/635EpP7MWy",
     "developer":
     {
         "name": "Spoon"
@@ -128,18 +128,25 @@
                     }
                 }
             },
-            "wallpaper":
-            {
-                "dark":
-                {   
-                    "image": "background/new_tab_splash_short_dark.mp4",
-                    "first_frame": "background/first_frame_dark.png",
-                    "text_color": "#FFFFFF",
-                    "text_shadow": "#757575"
+            "wallpaper": [ {
+                "dark": {
+                   "first_frame": "wallpaper/first_frame_dark.png",
+                   "image": "wallpaper/animated_dark.webm",
+                   "image_mobile": "wallpaper/mobile_dark.mp4",
+                   "speeddial_position": "top",
+                   "text_color": "#FFFFFF",
+                   "text_shadow": "#757575",
+                   "ui_settings": {
+                      "background_blur": 0,
+                      "background_opacity": 0,
+                      "focus_mode": false,
+                      "islands_opacity": 0,
+                      "vignette_strength": 0
+                   }
                 }
-            }
+            } ]  
         },
-        "schema_version": 1
+        "schema_version": 2
     },
-    "version": "2.1"
+    "version": "3.1"
 }

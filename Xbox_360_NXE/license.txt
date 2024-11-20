@@ -8,17 +8,18 @@
 
 This mod uses some exported sounds from the Xbox 360 NXE Dashboard, which was used
 from around 2007/2008 to 2011, when the Metro dashboard was introduced.
-Included in v2.0 of this mod is:
+Included in v3.0 of this mod is:
 - Keyboard sounds
 - Other sound effects
 - Correctly formatted CSS themes for dark and light
 - Custom animated background
 - Background Music
+- Xbox 360 Font
+- Custom Splash Screen
 
 KNOWN BUGS:
 - Setting the volume to 200 will peak the audio of the sound effects. PLEASE
 USE DEFAULT VOLUME FOR THE LOVE OF GOD.
-- Some colors may be slightly off. This will be fixed in v1.2.
                               
  _____           _ _ _       
 |     |___ ___ _| |_| |_ ___ 
@@ -28,10 +29,15 @@ USE DEFAULT VOLUME FOR THE LOVE OF GOD.
 
 All sounds and other assets used in this mod are the legal copyrighted
 property of Microsoft Inc., under the Xbox division. 
-© 2023 Microsoft Inc. Used under publicly available reuse licenses.
+© 2024 Microsoft Inc. Used under publicly available reuse licenses.
 
-This mod itself is not under any sort of copyright under the reuse license put out from Microsoft.
-It should be noted that copyrighting said materials may be infringing upon copyright law.
+The font used in this mod is a recreation made by Redge on fontmeme.com. 
+All credit for the fonts used go to him.
+
+This mod itself is not under any sort of copyright under the reuse license 
+put out from Microsoft.
+It should be noted that copyrighting said materials may be infringing upon 
+copyright law.
 
  _____       _         
 |  |  |_ _ _| |___ ___ 
@@ -40,6 +46,8 @@ It should be noted that copyrighting said materials may be infringing upon copyr
 ...............................................................................
                        
 u/SGCSam on Reddit for even making the tool that allowed this, lol
+Redge on fontmeme.com for making the font used in this mod
+
 
  _____ _       ___ ___ 
 |   __| |_ _ _|  _|  _|
@@ -50,5 +58,6 @@ u/SGCSam on Reddit for even making the tool that allowed this, lol
 This mod earns the Spoon seal of approval. :D
 By the way, if you're reading this, you should probably run while you can
 
-If you'd like to contribute assets or have any questions, message Spoon#5349 on Discord and I'd be happy to answer.
+If you'd like to contribute assets or have any questions, 
+message @Spoon_39 on Discord and I'd be happy to answer.
 - Spoon398, mod originally created in Nov. of 2023
