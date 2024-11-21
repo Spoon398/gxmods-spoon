@@ -1,23 +1,35 @@
 Hi there, you're on the landing page for my Opera GX mod repo.
 
 This repo serves as a storage hold for all of my mods here, and they can all be found under their respective folder on the repo.
+Everything shown here is free to be cloned and added here if it is deemed necessary. Note: vandalism of this git will result in a permanent ban from contributing. 
+
+Additional note: Any builds should be assumed as development builds, and are NOT for distribution on store.gx. Everything on this repo (as of right now) is my own work and publishing to store.GX may result is repurcussions. 
 
 This is the main branch, and if something is pushed to a mod folder here (on the main branch), then expect a mod release/update soon.
 
 Here's my currently developed mods that have been released:
-Xbox 360 NXE (currently on v2.0a)
+Xbox 360 NXE (V3.0 & v3.1 currently in development)
 
 Here's some mods I'm currently working on that may or may not have folders here:
-"Eggbully" (VERY early stages so no folder here yet)
-Fallout Pip-Boy (haven't even started it lol)
+"Eggbully" (early stages)
+"Owiebrainhurts" (early stages)
+"Rythm" (working on assets)
 
-# PATCH NOTES: XBOX 360 NXE v2.0 ALPHA
-CHANGES
-- New Light Mode compatibility! Some colors have been altered to be darker so that they may work better with light backgrounds. 
-- ANIMATED WALLPAPER!!! This was by far the most time consuming part of the project (mostly because Opera GX doesn't automatically restart a video when you open a new tab, which is a problem)
-- Background music! It's still *slightly* off sync, but it is VERY close to being fully done.
-PLANNED UPDATES
-- Tweaks to background music in order to make transitioning slightly more seamless.
+# Xbox NXE Patch Notes for V3.0 & v3.1
+- Nearly complete rewrite of the codebase handling everything behind the scenes
+- Additional optimizations to the new tab page
+- New settings font
+- Additional miscellaneous tweaks and fixes
+
+# Known Bugs
+- Limiter On and Off SFX are extremely loud
+- Codebase is still very spaghet
+- Font is missing some characters
+- Missing new features
+
+# Additional stuff I'm working on
+- New codebase documentation
+- additional crap
 
 If you would like to contribute to this git, get more details on how I created some assets of this mod, or have some other general questions, join https://discord.gg/2taWvdDqv2, and I will respond ASAP.
 (If the above invite doesn't work, message me directly at "@Spoon_39".)
