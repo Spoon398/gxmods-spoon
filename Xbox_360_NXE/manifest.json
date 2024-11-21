@@ -19,7 +19,7 @@
             [ {
                 "id": "0",
                 "name": "Xbox Avatar Music",
-                "tracks": "music/track_1.wav"
+                "tracks": [ "music/track_1.wav" ]
             } ],
             "browser_sounds": [ {
                 "id": "0",
@@ -40,44 +40,40 @@
                    "TAB_SLASH": [ "sound/tab_slash.mp3" ]
                 }
              } ],
-            "keyboard_sounds":
-            {
-                "TYPING_BACKSPACE":
-                [
-                    "keyboard/backspace.wav"
-                ],
-                "TYPING_ENTER":
-                [
-                    "keyboard/enter.wav"
-                ],
-                "TYPING_LETTER":
-                [
-                    "keyboard/letter_1.wav",
-                    "keyboard/letter_2.wav",
-                    "keyboard/letter_3.wav"
-                ],
-                "TYPING_SPACE":
-                [
-                    "keyboard/space.wav"
-                ]
-            },
-            "theme":
-            {
-                "dark":
-                {
-                    "gx_accent":
-                    {
+             "fonts": [ {
+                "header": {
+                   "name": "Xbox 360 Replica",
+                   "variants": [ {
+                      "path": "font/X360.ttf"
+                   } ]
+                },
+                "id": "fonts_01",
+                "name": "Xbox 360 NXE"
+             } ],
+             "keyboard_sounds": [ {
+                "id": "0",
+                "name": "Martincitopants",
+                "sounds": {
+                   "TYPING_BACKSPACE": [ "keyboard/backspace.wav" ],
+                   "TYPING_ENTER": [ "keyboard/enter.wav" ],
+                   "TYPING_LETTER": [ "keyboard/letter_1.wav", "keyboard/letter_2.wav", "keyboard/letter_3.wav" ],
+                   "TYPING_SPACE": [ "keyboard/space.wav" ]
+                }
+             } ],
+            "theme": [  {
+                "dark": {
+                    "gx_accent": {
                         "h": 120,
                         "s": 100,
                         "l": 52
                     },
-                    "gx_secondary_base":
-                    {
+                    "gx_secondary_base": {
                         "h": 0,
                         "s": 0,
                         "l": 16
                     }
                 },
+                "id": "0",
                 "light":
                 {
                     "gx_accent":
@@ -92,13 +88,14 @@
                         "s": 0,
                         "l": 55
                     }
-                }
-            },
+                }, 
+            "name": "Xbox 360 NXE"
+            } ],
             "wallpaper": [ {
                 "dark": {
-                   "first_frame": "wallpaper/first_frame_dark.png",
-                   "image": "wallpaper/animated_dark.webm",
-                   "image_mobile": "wallpaper/mobile_dark.mp4",
+                   "first_frame": "background/first_frame_dark.png",
+                   "image": "background/new_tab_splash_short_dark.mp4",
+                   "image_mobile": "background/new_tab_splash_short_dark.mp4",
                    "speeddial_position": "top",
                    "text_color": "#FFFFFF",
                    "text_shadow": "#757575",
@@ -109,8 +106,10 @@
                       "islands_opacity": 0,
                       "vignette_strength": 0
                    }
-                }
-            } ]  
+                },
+                "id": "0",
+                "name": "Xbox 360 NXE"
+            } ]
         },
         "schema_version": 2
     },
