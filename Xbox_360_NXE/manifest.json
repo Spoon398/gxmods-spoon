@@ -60,6 +60,11 @@
                    "TYPING_SPACE": [ "keyboard/space.wav" ]
                 }
              } ],
+             "splash_screen": [ {
+                "id": "splash_screen_01",
+                "name": "Xbox 360 NXE Startup",
+                "path": "splash/splash1_1.mp4"
+             } ],
             "theme": [  {
                 "dark": {
                     "gx_accent": {
